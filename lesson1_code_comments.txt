@@ -1,0 +1,52 @@
+-- Comentários --
+
+Foi uma aula direcionada a comentários no Python, que se faz utilizando a #.
+
+Exemplo:
+# Isso seria um comentário em Python.
+Só funciona na mesma linha da #, se estiver em outra, o comentário não pega.
+
+Exemplo:
+# Esse é um comentário
+em Python.
+Isso acima não funcionaria.
+Se fizer assim:
+Comentário #
+Também não funciona.
+
+O interpretador do código ignora o que está na linha da #, pois é um comentário.
+Ele não executa o comentário.
+Uma linha invisível?
+
+Tipos de comentário:
+# No começo da linha. Acima do código.
+print() # Após algo que fiz em Python.
+# Abaixo do código. Não é recomendado.
+
+
+-- Função print() --
+
+print()
+Exibe algo na tela.
+
+
+DocStrings não são comentários, o Python lê essa linha de código.
+
+Você consegue digitar como se fosse um comentário (utilizado como tal), só que em
+várias linhas.
+
+Exemplo:
+"""
+Escrever aqui dentro
+continua sendo a docstring.
+Posso escrever em várias linhas.
+
+E assim também, pulando linhas.
+"""
+
+'''
+Também pode se fazer desta forma.
+'''
+
+''' Dessa forma também é permitido. '''
+""" Assim também. """
