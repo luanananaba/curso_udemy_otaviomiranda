@@ -1,0 +1,15 @@
+Função print é utilizada para exibir coisas na tela.
+
+print recebe argumentos.
+Para ter mais de um argumento, se usa a vírgula. print(1, 2)
+
+Ctrl C e Ctrl V em qualquer lugar da linha do código, copia a linha e coloca embaixo.
+
+sep= é um separador.
+print(1, 2, sep="-")
+
+\r\n caractere que não vemos, mas faz alguma coisa, como quebrar a linha.
+
+end= final do print, o último argumento.
+
+print apenas pode ser escrito da mesma forma, sem trocar para letra minúscula ou maiúscula.
