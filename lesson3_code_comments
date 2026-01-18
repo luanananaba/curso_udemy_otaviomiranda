@@ -1,0 +1,13 @@
+Strings são textos dentro de aspas.
+Detecção forte dos argumentos por ser uma tipagem dinâmica.
+
+Para usar aspas dentro de uma frase no Python, use o escape \.
+(Não recomendado.)
+"Eu sou \"dessa forma\"."
+(Recomendado.)
+'Eu sou "dessa forma".'
+
+r é usado para expressões regulares.
+
+Escape e r normalmente não é utilizado em frases como foram feitas no exercício.
+É algo complicado para codar.
