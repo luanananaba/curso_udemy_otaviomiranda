@@ -1,0 +1,7 @@
+Type conversion, coercion.
+type conversion, typecasting, coercion
+
+It is the act of converting one type into another.
+
+Immutable and primitive types:
+str, int, float, bool
